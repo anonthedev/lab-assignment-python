@@ -155,7 +155,7 @@ for x in comma_values:
     try:
         value = int(x)
         int_values.append(value)
-    except:
+    except ValueError:
         None
 print(int_values)
 
