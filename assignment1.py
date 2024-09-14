@@ -31,10 +31,10 @@ y = -90.00
 print(x, y)
 
 # Question 9
-print(10 + 15)  # Add 10 and 15
-print(7 * 8)    # Multiply 7 and 8
-print(56 / 7)   # Divide 56 by 7
-print(450 - 300)  # Subtract 300 from 450
+print(10 + 15)
+print(7 * 8)
+print(56 / 7)
+print(450 - 300)
 
 # Question 10
 x = 5.5
